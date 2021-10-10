@@ -1,4 +1,4 @@
 ## Comienzo con JavaScript. 
 ### Ejercicios de VARIABLE, DATOS Y OPERADORES. 
 
-Algunos ejercicios del curso
+Primeras clases de JavasCrips. Algunos ejercicios del curso. 
